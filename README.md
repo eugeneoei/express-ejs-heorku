@@ -45,3 +45,7 @@ heroku git:remote -a durian-orange-v1
 ```bash
 git push heroku main
 ```
+
+# Resources
+
+- [Deploying Node.js Apps on Heroku](https://devcenter.heroku.com/articles/deploying-nodejs)
